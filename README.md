@@ -1,6 +1,6 @@
 # Password Strength Checker
 
-This project is developed as part of an internship with Prodigy Infotech to create a Python-based password strength checker. The tool evaluates passwords against multiple criteria and assigns a strength rating to promote secure password practices.
+This project is developed as part of an internship with Prodigy Infotech, the Python-based password strength checker tool. The tool evaluates passwords against multiple criteria and assigns a strength rating to promote secure password practices.
 
 ## Overview
 
