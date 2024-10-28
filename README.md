@@ -20,5 +20,5 @@ Weak passwords are a major security risk. This project aims to help users unders
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/password-strength-checker.git
+   git clone https://github.com/hamidcherif/password-strength-checker.git
    cd password-strength-checker
