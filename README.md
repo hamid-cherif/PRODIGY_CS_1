@@ -28,18 +28,17 @@ To use the password strength checker:
 
 2. Bash:
 
-   ```python
+   ```bash
    python password-Strength-Checker.py
 
 You’ll be prompted to enter a password, and the tool will evaluate its strength.
 
 3. Example:
 
-plaintext:
-
    ```bash
    Enter a password to check its strength: Example@123
    Password Strength: Strong
+
 
 4. Project Structure
 
