@@ -23,12 +23,13 @@ Weak passwords are a major security risk. This project aims to help users unders
    git clone https://github.com/hamidcherif/password-strength-checker.git
    cd password-strength-checker
 
-###Usage
+### Usage
 To use the password strength checker:
 
 2. Bash:
 
-   ```python code.py
+   ```python
+   python password-Strength-Checker.py
 
 You’ll be prompted to enter a password, and the tool will evaluate its strength.
 
@@ -36,8 +37,9 @@ You’ll be prompted to enter a password, and the tool will evaluate its strengt
 
 plaintext:
 
-```Enter a password to check its strength: Example@123
-```Password Strength: Strong
+   ```bash
+   Enter a password to check its strength: Example@123
+   Password Strength: Strong
 
 4. Project Structure
 
