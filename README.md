@@ -26,21 +26,21 @@ Weak passwords are a major security risk. This project aims to help users unders
 ### Usage
 To use the password strength checker:
 
-2. Bash:
+1. Bash:
 
    ```bash
    python password-Strength-Checker.py
 
 You’ll be prompted to enter a password, and the tool will evaluate its strength.
 
-3. Example:
+2. Example:
 
    ```bash
    Enter a password to check its strength: Example@123
    Password Strength: Strong
 
 
-4. Project Structure
+3. Project Structure
 
 password-Strength-Checker.py - Python script for password strength checking.
 requirements.txt - List of required packages (if any).
